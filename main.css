@@ -2,31 +2,33 @@
 
 h1{
   text-align: center;
-  color:;
-  font-family:;
+  color:#201b20;
+  font-family: cursive;
 
 }
 
 header{
-  color:; 
-  font-size:;
-  text-align:;
-  padding:;
-  font-style:;
-  font-family:;
+  color: #556666 ; 
+  font-size: larger;
+  text-align: center;
+  padding: 10px;
+  font-style: bold;
+  font-family: fantasy;
 
 
 }
 
 a {
-  color:;
+  color:#1a8080 ;
   font-weight: bold;
+  font-family: cursive;
 
 }
 body{
-  margin: px;
-  padding: px;
-  background-color:;
+  margin: 0px;
+  padding: 0px;
+  background-color: #dd9988;
+  color: #3c332b;
 
 
 }
@@ -52,8 +54,8 @@ footer{
 }
 
 footer a {
-  color:;
+  color:#1a8080 ;
   font-weigth: bold;
-  font-family:;
+  font-family: cursive;
   display: inline;
 }
