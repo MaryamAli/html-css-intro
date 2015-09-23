@@ -32,10 +32,11 @@ body{
   font-size: large;
   font-color: #2e2e38;
   font-family: cursive;
-
+  
 }
 
 img{
+
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -43,10 +44,13 @@ img{
   height: auto;
   max-width:auto;
   max-height:auto;
-  padding-top: 10%;
-  padding-bottom: 10%;
+  padding-top: 5%;
+  padding-bottom: 5%;
   padding:3px;
-   border:3px solid #115555;
+   border:3px 
+   border color:115555 ;
+
+   solid #115555;
    background-color:#ffb366;
 
 
