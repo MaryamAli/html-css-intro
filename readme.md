@@ -1,9 +1,9 @@
 # My Git Intro Project
 
-#### Yet, it's pretty cool
+#### Re-styling website
 
-* Really cool
-* Yep, still cool
-* Ok, not so much
+* Added entertaining images
+* Streamlined lists
+* Changed color palette
 
 [This is a link](http://github.com)
