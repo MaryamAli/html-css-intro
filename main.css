@@ -1,6 +1,6 @@
 /* add color, font */
 
-header{
+h1{
   text-align: center;
   color:#201b20;
   font-family: cursive;
@@ -9,7 +9,7 @@ header{
 
 }
 
-h1{
+h2{
   color: #556666 ; 
   font-size: x-large;
   text-align: center;
