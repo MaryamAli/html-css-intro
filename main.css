@@ -1,21 +1,21 @@
 /* add color, font */
 
-h1{
+header{
   text-align: center;
   color:#201b20;
   font-family: cursive;
+  font-size: 60px;
+  font-style: bold;
 
 }
 
-header{
+h1{
   color: #556666 ; 
   font-size: x-large;
   text-align: center;
   padding: 30px;
   font-style: bold;
   font-family: fantasy;
-
-
 }
 
 a {
@@ -35,9 +35,11 @@ body{
   
 }
 
+
 li{
   margin-top: 5%;
   margin-bottom: 5%;
+  float: center;
 }
 
 img{
