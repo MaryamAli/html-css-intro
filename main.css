@@ -1,10 +1,59 @@
-head{
+/* add color, font */
 
-}
-body{
+h1{
+  text-align: center;
+  color:;
+  font-family:;
 
 }
 
 header{
+  color:; 
+  font-size:;
+  text-align:;
+  padding:;
+  font-style:;
+  font-family:;
+
+
+}
+
+a {
+  color:;
+  font-weight: bold;
+
+}
+body{
+  margin: px;
+  padding: px;
+  background-color:;
+
+
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  height: auto;
+  max-width:;
+  max-height:;
+
+}
+header{
   
+}
+
+footer{
+  text-align: center;
+  padding: 30px;
+
+}
+
+footer a {
+  color:;
+  font-weigth: bold;
+  font-family:;
+  display: inline;
 }
